@@ -1,0 +1,16 @@
+C:\Users\desktop\Desktop\C#\LINQToSQL(NareshIT)\LINQToSQL(NareshIT)\bin\Debug\LINQToSQL(NareshIT).exe.config
+C:\Users\desktop\Desktop\C#\LINQToSQL(NareshIT)\LINQToSQL(NareshIT)\bin\Debug\LINQToSQL(NareshIT).exe
+C:\Users\desktop\Desktop\C#\LINQToSQL(NareshIT)\LINQToSQL(NareshIT)\bin\Debug\LINQToSQL(NareshIT).pdb
+C:\Users\desktop\Desktop\C#\LINQToSQL(NareshIT)\LINQToSQL(NareshIT)\obj\Debug\LINQToSQL(NareshIT).csprojAssemblyReference.cache
+C:\Users\desktop\Desktop\C#\LINQToSQL(NareshIT)\LINQToSQL(NareshIT)\obj\Debug\LINQToSQL_NareshIT_.Form1.resources
+C:\Users\desktop\Desktop\C#\LINQToSQL(NareshIT)\LINQToSQL(NareshIT)\obj\Debug\LINQToSQL_NareshIT_.Form2.resources
+C:\Users\desktop\Desktop\C#\LINQToSQL(NareshIT)\LINQToSQL(NareshIT)\obj\Debug\LINQToSQL_NareshIT_.Properties.Resources.resources
+C:\Users\desktop\Desktop\C#\LINQToSQL(NareshIT)\LINQToSQL(NareshIT)\obj\Debug\LINQToSQL(NareshIT).csproj.GenerateResource.cache
+C:\Users\desktop\Desktop\C#\LINQToSQL(NareshIT)\LINQToSQL(NareshIT)\obj\Debug\LINQToSQL(NareshIT).csproj.CoreCompileInputs.cache
+C:\Users\desktop\Desktop\C#\LINQToSQL(NareshIT)\LINQToSQL(NareshIT)\obj\Debug\LINQToSQL(NareshIT).exe
+C:\Users\desktop\Desktop\C#\LINQToSQL(NareshIT)\LINQToSQL(NareshIT)\obj\Debug\LINQToSQL(NareshIT).pdb
+C:\Users\desktop\Desktop\C#\LINQToSQL(NareshIT)\LINQToSQL(NareshIT)\obj\Debug\LINQToSQL_NareshIT_.Form3.resources
+C:\Users\desktop\Desktop\C#\LINQToSQL(NareshIT)\LINQToSQL(NareshIT)\obj\Debug\LINQToSQL_NareshIT_.Form4.resources
+C:\Users\desktop\Desktop\C#\LINQToSQL(NareshIT)\LINQToSQL(NareshIT)\obj\Debug\LINQToSQL_NareshIT_.Form5.resources
+C:\Users\desktop\Desktop\C#\LINQToSQL(NareshIT)\LINQToSQL(NareshIT)\obj\Debug\LINQToSQL_NareshIT_.Form6.resources
+C:\Users\desktop\Desktop\C#\LINQToSQL(NareshIT)\LINQToSQL(NareshIT)\obj\Debug\LINQToSQL_NareshIT_.Form7.resources
